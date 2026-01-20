@@ -34,8 +34,10 @@ TOPSIS method directly through a browser interface.
     - numpy
 3. Package listed on PyPI:- https://pypi.org/project/Topsis-Nimish-102483077/1.0.2/
 4. Use the following command to install this package:-
+
     ```bash
     pip install Topsis-Nimish-102483077
+    ```
 
 ---
 
