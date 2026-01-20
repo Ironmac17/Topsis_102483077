@@ -17,6 +17,16 @@ alternatives based on their distance from the ideal best and ideal worst solutio
 
 ---
 
+
+---
+The TOPSIS project is also deployed as a web application, allowing users to run the
+TOPSIS method directly through a browser interface.
+
+🔗 **Live Website:**  
+[https://topsis-six.vercel.app/]
+
+---
+
 ## Installation - USER MANUAL
 1. Topsis-Nimish-102483077 requires Python3 to run.
 2. Other dependencies that come installed with this package are :-
