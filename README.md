@@ -1,9 +1,9 @@
 # TOPSIS Implementation in Python
 
-**Course:** UCS654 - Predictive Analytics using Statistics  
-**Assignment:** Assignment-1 (TOPSIS)  
-**Author:** Nimish Agrawal
-**Roll Number:** 102483077  
+- **Course:** UCS654 - Predictive Analytics using Statistics  
+- **Assignment:** Assignment-1 (TOPSIS)  
+- **Author:** Nimish Agrawal
+- **Roll Number:** 102483077  
 
 ---
 
